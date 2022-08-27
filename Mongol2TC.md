@@ -32,3 +32,15 @@ Most basic opening to the formula and the most economically greedy. This is most
 * You can micro the villagers onto the 1st tree that is felled so they don't fell two trees. This will give you 50 wood slightly faster and keep the villagers from dropping off at different times making it a little easier. You can also use a straggler tree if it's near the TC and starting villagers.
 * You will mine slightly over 200 gold depending on distance, with a far away gold you want to slightly Deer Stones start to reach 235 gold for upgrading horseman or spearmen in Feudal. This can help immensely if you are pushed off gold. You can spend some time building Deer Stones with 3 villagers if you have to wait.
 * You can also just leave 2 or 3 villagers on Deer Stones. If you leave 3, move them over to wood when done. If you leave 2 then move them to food when done. By doing 3->2 feudal will complete right as you have wood for TC. With 2 or 3 for the whole duration things don't line up as well.
+
+
+### Skip Wheelbarrow, Early Stables
+* TC villagers only rally food
+* 1 villager to Ovoo then food
+* 3 villagers to wood
+* 2 villagers on gold
+* Stop mining gold at 200 gold (or 240) send vills to food
+* 12 villagers on food, then rally wood
+* Build stables at 150 wood
+* Double produce horsemen (once)
+* 3 from food on Age up, balance economy to either 4 or 5 food depending if you want a 2nd set of horsemen
