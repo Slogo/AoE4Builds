@@ -34,6 +34,20 @@ Most basic opening to the formula and the most economically greedy. This is most
 * You can also just leave 2 or 3 villagers on Deer Stones. If you leave 3, move them over to wood when done. If you leave 2 then move them to food when done. By doing 3->2 feudal will complete right as you have wood for TC. With 2 or 3 for the whole duration things don't line up as well.
 
 
+### Skip Wheelbarrow, Early Mangudai
+* TC villagers only rally food
+* Villagers gather 50 wood then food (used while TC is setting up)
+* 1 villager to Ovoo then food
+* 8 villagers on Food
+* 3 villagers on gold
+* 1 villager on food
+* Rest to wood
+* 4 villagers from food build deer stones then 2 to wood, 2 to ovoo for archery range (6 food, 3 gold, rest wood)
+* Research wheelbarrow at next 150 gold after Deer Stones
+* Make 2x Mangudai
+* When you have enough for 4 mangudai move gold workers to wood
+
+
 ### Skip Wheelbarrow, Early Stables
 * TC villagers only rally food
 * 1 villager to Ovoo then food
