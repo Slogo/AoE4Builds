@@ -42,11 +42,11 @@ Most basic opening to the formula and the most economically greedy. This is most
 * 3 villagers on gold
 * 1 villager on food (9/0/3 total)
 * Rest to wood
-* 4 villagers from food build deer stones then 2 to food, 2 to ovoo for archery range then wood (7 food, 3 gold, rest wood)
-* Research wheelbarrow at next 150 gold after Deer Stones
-* At 80 move 3 villagers (4 mangudai) or 2 villagers (6+ mangudai) to wood
-* Double produce mangudai
-* At 800 wood move villagers to TC
+* 4 villagers from food build deer stones -> 2 to food, 2 to ovoo for archery range then wood (7 food, 3 gold, rest wood)[2:45 start, 4:30 finish]
+* Research wheelbarrow at next 150 gold after Deer Stones [~4:00 start]
+* At 80 gold move 3 villagers (4 mangudai) or 2 villagers (6+ mangudai) to wood
+* Double produce mangudai [5:30 for first set]
+* Build TC with 10 villagers [6:40 start]
 * Ramp up to 2 villagers on gold if you want constant mangudai production now otherwise hit ~22 food, then 10 gold with 4-6 on wood depending on food/map control
 
 
